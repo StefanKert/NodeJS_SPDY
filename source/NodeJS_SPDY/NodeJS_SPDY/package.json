@@ -1,0 +1,13 @@
+{
+  "name": "NodeJS_SPDY",
+  "version": "0.0.0",
+  "description": "NodeJS_SPDY",
+  "main": "server.js",
+  "author": {
+    "name": "Stefan",
+    "email": ""
+  },
+  "dependencies": {
+    "spdy": "^1.26.5"
+  }
+}
